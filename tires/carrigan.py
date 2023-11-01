@@ -1,4 +1,4 @@
-from tire.model.tire import Tires
+from tires.model.tires import Tires
 
 class CarriganTires(Tires):
     def __init__(self, tire_wear_readings):

@@ -1,4 +1,4 @@
-from tire.model.tires import Tires
+from tires.model.tires import Tires
 
 
 class OctoprimeTires(Tires):
